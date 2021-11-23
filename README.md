@@ -1,4 +1,4 @@
-👋 Hi, I’m @codeCoaster! I am a student at QUT in the Bachelor of Data Science program. 📚 
+👋 Hi, I’m @codeCoaster! I study Data Science at QUT in Brisbane, Australia. 📚 
 
 👀 My interests include...
   - Machine Learning and Artificial Intelligence
