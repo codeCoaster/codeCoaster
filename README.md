@@ -3,7 +3,8 @@
 👀 My interests include...
   - Machine Learning and Artificial Intelligence
   - Compelling Visualisations of Data
-  - Blockchain and Decentralised Finance
-  - Music Education and Composition/Music Theory
-  - Psychology
-  - Economics
+  - Blockchain and Web3 Development
+  - Game Development
+  - Music Theory and Arrangement
+  - Pop Psychology
+  - Economics and Incentives
